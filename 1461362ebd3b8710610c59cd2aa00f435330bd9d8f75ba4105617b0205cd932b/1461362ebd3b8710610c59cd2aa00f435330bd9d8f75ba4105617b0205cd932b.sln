@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encryptor", "1461362ebd3b8710610c59cd2aa00f435330bd9d8f75ba4105617b0205cd932b.csproj", "{289C046F-3AE7-49A5-8F53-DC314857882F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{289C046F-3AE7-49A5-8F53-DC314857882F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289C046F-3AE7-49A5-8F53-DC314857882F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289C046F-3AE7-49A5-8F53-DC314857882F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289C046F-3AE7-49A5-8F53-DC314857882F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
